@@ -25,4 +25,6 @@ We had cancellation deadlines (and cancellations are NOT shown in this data) wit
  * 50% fee after 1st September
  * No refund after 1st October
 
+There were also a series of promotional blitzes on Facebook that varied in scope quite a bit. Yet more confounding factors :)
+
 This data is supplied under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
