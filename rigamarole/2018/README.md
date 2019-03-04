@@ -16,7 +16,7 @@ Full passes (party + classes) were at three different prices:
  * 'Earlyworm' until 4th March
  * Full price from 4th March onwards.
 
-Registration was closed on September 22nd (a short time after registration was closed - we waitlisted a handful of leaders and couples in case of cancellations).
+Registration was closed on September 22nd (a short time after the capacity was reached - we waitlisted a handful of leaders and couples in case of cancellations).
 
 We had cancellation deadlines (and cancellations are NOT shown in this data) with the following schedule:
 
